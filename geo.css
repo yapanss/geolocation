@@ -1,0 +1,52 @@
+
+.navbar-brand {
+  color: white;
+  font-size: 2em;
+}
+.card {
+  margin-left: 25%;
+  width: 50%;
+  opacity: 0.8;
+}
+
+.btn {
+  border-radius: 0;
+  margin-left: 5px;
+}
+
+#location h4{
+  color: #4545d5;
+}
+#convert {
+  width: 15%;
+  color: white;
+  background-color: #4545d5;
+  cursor: pointer;
+}
+.rounded-circle {
+  height: 200px;
+  /*width: 15%;*/
+  width: 50%;
+  margin-left: 25%;
+}
+img {
+  /*border: solid 1px;*/
+  background-color: #00cbcb;
+}
+#temp {
+  /*border: solid 1px;*/
+  font-size: 1.5em;
+  background-color: #008e8e;
+  color: white;
+}
+/*#button-temp {
+  width: 50%;
+}*/
+#icon-text {
+  display: inline;
+  background-color: #008e8e;
+  font-size: 1.5em;
+  color: white;
+  margin-right: 10px;
+}
+
